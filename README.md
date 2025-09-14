@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MohdCS0
+- 👋 Hi, I’m Mohammed
 - 👀 I’m interested in Machine Learning and Learning Computational Theories
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently expanding my knowledge!
 - 💞️ I’m looking to collaborate on Time series models 
 - 📫 How to reach me: I reach you 👀
 
